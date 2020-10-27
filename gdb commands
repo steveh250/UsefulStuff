@@ -1,3 +1,8 @@
+GDB TUI setup
+=============
+.gdbinit
+ - add 'tui enable` - loads gdb with tui enabled as default
+ 
 GDB Commands
 ============
   - `gdb --args <command and args>` : Launch gdb with a command to debug that requires arguments.
