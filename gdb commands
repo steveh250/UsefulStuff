@@ -13,4 +13,11 @@ GDB Commands
   - s : step into
   - p <var> : print contents of <var>
   - p &<var> : print the address of the variable
+  - p/d <var> : print variable contents as decimal
   - bt : backtrace - useful if program your running causes a sigsegv, bt will give you a clue with the line number last run
+
+Other Useful Cheatsheets
+========================
+https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf
+https://ftp.gnu.org/old-gnu/Manuals/gdb/html_node/gdb_toc.html
+
