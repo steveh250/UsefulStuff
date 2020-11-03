@@ -14,6 +14,7 @@ GDB Commands
   - p <var> : print contents of <var>
   - p &<var> : print the address of the variable
   - p/d <var> : print variable contents as decimal
+  - x/nfu <mem address> : Display memory contents at address
   - bt : backtrace - useful if program your running causes a sigsegv, bt will give you a clue with the line number last run
 
 Other Useful Cheatsheets
