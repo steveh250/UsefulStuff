@@ -12,4 +12,5 @@ GDB Commands
   - n : next
   - s : step into
   - p <var> : print contents of <var>
+  - p &<var> : print the address of the variable
   - bt : backtrace - useful if program your running causes a sigsegv, bt will give you a clue with the line number last run
